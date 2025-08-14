@@ -178,6 +178,7 @@ cython_debug/
 # Reference Materials
 Sandbox/
 dataset/
+results/
 runs/
 
 # Video files
