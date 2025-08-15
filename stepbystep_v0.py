@@ -104,7 +104,7 @@ class StepByStep(object):
             
     def _mini_batch(self, validation=False):
         # The mini-batch can be used with both loaders
-        # The argument `validation`defines which loader and 
+        # The argument `validation` defines which loader and 
         # corresponding step function is going to be used
         if validation:
             data_loader = self.val_loader
